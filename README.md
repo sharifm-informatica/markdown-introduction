@@ -1,4 +1,4 @@
-# markdown-introduction
+# Markdown Templates and Introduction
 
 Arabic and English Markdown templates for professional and simple academic documents with YAML front matter.
 This repo contains simple Arabic and English markdown templates useful in many applications and use cases.
