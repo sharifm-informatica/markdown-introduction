@@ -1,13 +1,12 @@
 # Markdown Templates and Introduction
 
-Arabic and English Markdown templates for professional and simple academic documents with YAML front matter.
-This repo contains simple Arabic and English markdown templates useful in many applications and use cases.
+This repository contains [Arabic](./arabic-markdown-template.md) and [English](markdown-template.md) Markdown templates for professional and academic documents with simple YAML front matter. These templates make use of markdown extensions and LaTeX typesetting engines in [Pandoc](https://pandoc.org/) to make simple documents much more professional and easily adaptable to many use cases. The templates are free to use and adapt.
 
-The templates are free to use and adapt as you see fit.
+The repo also has an [example document](example-simple-markdown-document.md) with content demonstrating and explaining markdown's different text forms, headings, lists, tables, ...
 
-The repo also has an example document with content explaining markdown uses and different text forms, headings, lists, tables, ...
+This is a companion repository for a Google Developer Group (GDGMena) YouTube livestream session. The video can be found at [Advanced Markdown ماركداون :مستندات ووثائق جميلة سهلة 2](https://www.youtube.com/watch?v=-4OmPelYnfk). It explains all parts of the templates and examples in the Arabic language.
 
-This is a companion repository for a Google Developer Group (GDGMena) YouTube livestream session. The recording can be found at [https://www.youtube.com/watch?v=-4OmPelYnfk&list=PLlqOXLg-GOqeJWNURJtQKBWW6IQJKu9Ly&index=22](https://www.youtube.com/watch?v=-4OmPelYnfk&list=PLlqOXLg-GOqeJWNURJtQKBWW6IQJKu9Ly&index=22)
+[![Advanced Markdown ماركداون :مستندات ووثائق جميلة سهلة 2](https://img.youtube.com/vi/-4OmPelYnfk/0.jpg)](https://www.youtube.com/watch?v=-4OmPelYnfk)
 
 # Recommended Tools
 
@@ -17,13 +16,13 @@ Here we will list recommended tools for working with Markdown.
 
 This is a bulleted list of Markdown editors:
 
-- Mac: MacDown, iA Writer, or Marked 2
-- iOS / Android: iA Writer
 - Windows: ghostwriter or Markdown Monster
+- Mac: MacDown, iA Writer, or Marked 2
 - Linux: ReText or ghostwriter
+- iOS / Android: iA Writer
 - Web: Dillinger or StackEdit
 
-## Document Converter
+## [Pandoc](https://pandoc.org/): the Great Document Converter
 
 The king of document converters and a very powerful tool on its own is [Pandoc](https://pandoc.org/). You can download it from [https://pandoc.org/](https://pandoc.org/).
 
