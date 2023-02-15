@@ -4,7 +4,7 @@ This repository contains [Arabic](./arabic-markdown-template.md) and [English](m
 
 The repo also has an [example document](example-simple-markdown-document.md) with content demonstrating and explaining markdown's different text forms, headings, lists, tables, ...
 
-This is a companion repository for a Google Developer Group (GDGMena) YouTube livestream session. The video can be found at [Advanced Markdown ماركداون :مستندات ووثائق جميلة سهلة 2](https://www.youtube.com/watch?v=-4OmPelYnfk). It explains all parts of the templates and examples in the Arabic language.
+This is a companion repository for the Google Developer Group (GDGMena) YouTube livestream session [Advanced Markdown ماركداون :مستندات ووثائق جميلة سهلة 2](https://www.youtube.com/watch?v=-4OmPelYnfk). The video explains all parts of the templates and examples in the Arabic language.
 
 [![Advanced Markdown ماركداون :مستندات ووثائق جميلة سهلة 2](https://img.youtube.com/vi/-4OmPelYnfk/0.jpg)](https://www.youtube.com/watch?v=-4OmPelYnfk)
 
@@ -45,7 +45,7 @@ You can simply change the outputFile extension for other file formats like
 - .html
 - .odt
 
-Many other formats are supported. You can also convert from these formats to Markdown and to each other using pandoc by simply changing the sourceFile extension.
+Many other formats are supported. You can also convert from these formats to Markdown and to each other using Pandoc by simply changing the sourceFile extension.
 
 ### My Favourite Editors
 
@@ -54,9 +54,9 @@ This is a numbered list of my favourite Markdown editors:
 1. Visual Studio Code for English and for developers
 1. Ghostwriter: for Arabic and non developers
 
-### Recommended VSCode Extensions
+### Recommended VS Code Extensions
 
-With visual Studio Code the following extensions are highly recommended:
+With Visual Studio Code the following extensions are highly recommended:
 
 - [vscode-pandoc](https://marketplace.visualstudio.com/items?itemName=ChrisChinchilla.vscode-pandoc)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
